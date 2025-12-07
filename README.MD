@@ -1,5 +1,7 @@
 
 ## Course on Symphony 6.4
+* https://symfony.com/doc
+* terminal-console - bin/console
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
